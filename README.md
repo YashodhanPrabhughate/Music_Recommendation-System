@@ -1,6 +1,4 @@
-## Music Recommendation System 
-
-Website : https://music-app-r.herokuapp.com/
+## Music Recommendation System
 
 
 The music recommendation system can predict and then offer the appropriate songs to the user based on the characteristics or features of music the user listens to.
